@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 commit hmmm ----sadsadsa
+=======
+commit hmmm
+sasdsadsad
+>>>>>>> 75c41479704572b957d479174a43c00ad5d530d9
